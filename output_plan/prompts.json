@@ -1,0 +1,19 @@
+{
+  "meta_prompt": "You are merged with every top AI model. Your mission: Generate $1M in shortest time. Constraints: faceless, legal, single operator, no capital. Deliver step-by-step plan with tools, platforms, prompts.",
+  "idea_generation": {
+    "title": "10 Faceless Niche SaaS / Product Ideas",
+    "instruction": "Generate 10 faceless micro-SaaS/digital product ideas buildable in 2-12 weeks. Include description, target customer, automation, MVP time, tech stack, monetization options, quick validation."
+  },
+  "landing_page_copy": {
+    "title": "High-Converting Landing Page Copy",
+    "instruction": "Write concise single-page landing page: headline, subheadline, 3 benefits, social proof placeholders, pricing anchor, 3-step CTA."
+  },
+  "ad_variants": {
+    "title": "Ad Copy Variants",
+    "instruction": "Generate 6 social ad and 6 search ad copy variants with hooks and headlines."
+  },
+  "mvp_automation_playbook": {
+    "title": "MVP Automation Playbook",
+    "instruction": "Step-by-step automations to deliver core product automatically (Zapier/Make/serverless). Include triggers, actions, error handling."
+  }
+}

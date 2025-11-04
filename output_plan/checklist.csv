@@ -1,0 +1,3 @@
+task,priority,owner,due_date,status
+Run idea_generation prompt,High,Owner,2025-11-02,todo
+Create ghost landing page,High,Owner,2025-11-02,todo
